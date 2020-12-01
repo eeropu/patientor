@@ -1,4 +1,4 @@
-# Patientor - frontend
+# Patientor - frontend (Fullstack course part 9 exercise)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
